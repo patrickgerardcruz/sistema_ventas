@@ -1,0 +1,4 @@
+<div class="theme-switch" role="group" aria-label="Tema de la interfaz">
+ <button type="button" data-theme-value="light" aria-label="Usar tema claro" aria-pressed="true" title="Tema claro"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg><span>Claro</span></button>
+ <button type="button" data-theme-value="dark" aria-label="Usar tema oscuro" aria-pressed="false" title="Tema oscuro"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.8 13A9 9 0 0 1 11 3.2 9 9 0 1 0 20.8 13Z"/></svg><span>Oscuro</span></button>
+</div>
